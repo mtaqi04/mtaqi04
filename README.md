@@ -2,6 +2,6 @@
 - 👀 I’m interested in full-stack development, with a solid foundation in JavaScript, Java, C, and Python. I enjoy building complete solutions from the ground up, blending back-end logic with front-end usability.
 - 🌱 I’m currently expanding my skills in React and Spring, exploring ways to create dynamic and efficient applications. I’m also learning CI/CD practices to streamline deployment for real-world projects.
 - 💞️ I’m looking to collaborate on projects that challenge and grow my skills in full-stack development, open-source projects, or anything involving creative problem-solving in tech.
-- 📫 How to reach me: Feel free to email me at mohammad.taqi2420@gmail.com or connect on [LinkedIn] [https://www.linkedin.com/in/murtazahussainii/](https://www.linkedin.com/in/mohammad-hussaini-269408328/)
+- 📫 How to reach me: Feel free to email me at mohammad.taqi2420@gmail.com or connect on [LinkedIn] (https://www.linkedin.com/in/mohammad-hussaini-269408328/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, I'm making dad jokes and playing chess!
