@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects that challenge and grow my skills in full-stack development, open-source projects, or anything involving creative problem-solving in tech.
 - 📫 How to reach me: Feel free to email me at mohammad.taqi2420@gmail.com or connect on [LinkedIn] (https://www.linkedin.com/in/mohammad-hussaini-269408328/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I’m not coding, I'm making dad jokes and playing chess!
+- ⚡ Fun fact: When I’m not coding, I'm making dad jokes and play chess!
